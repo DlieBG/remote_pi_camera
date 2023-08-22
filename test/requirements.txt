@@ -1,0 +1,3 @@
+python-dotenv
+picamera2
+boto3
